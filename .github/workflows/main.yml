@@ -36,5 +36,3 @@ jobs:
           git add .
           git commit -m "Workflow: Updated HTML and README for ${{ github.actor }}" || echo "No changes to commit"
           git push origin main
-EOF 
-EOF 
